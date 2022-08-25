@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dotf-it
-- 👀 I’m interested to learn, discover, try, re-try and solve some problem I find in my way.
+- 👀 I’m interested to learn, discover, try, re-try and solve some problem I encounter on my way.
 - 📫 How to reach me: twitter.com/dotf_it
 
 <!---
